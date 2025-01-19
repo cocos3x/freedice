@@ -1,0 +1,4 @@
+{
+"link":"http://192.168.2.11:8086/vo/",
+"bundle":"http://192.168.2.11:8086/remote/BundleVersion.json"
+}
