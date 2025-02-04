@@ -1,0 +1,4 @@
+{
+"link":"https://v88-beta.vercel.app/vo/",
+"bundle":"https://v88-beta.vercel.app/remote/BundleVersion.json"
+}
