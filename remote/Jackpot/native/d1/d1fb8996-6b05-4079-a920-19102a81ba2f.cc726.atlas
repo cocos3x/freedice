@@ -1,0 +1,104 @@
+
+jackpot.png
+size: 620,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow2
+  rotate: true
+  xy: 378, 2
+  size: 53, 52
+  orig: 64, 64
+  offset: 6, 6
+  index: -1
+jackpot/cangat
+  rotate: false
+  xy: 548, 7
+  size: 70, 113
+  orig: 72, 115
+  offset: 1, 1
+  index: -1
+jackpot/flare
+  rotate: false
+  xy: 432, 2
+  size: 52, 53
+  orig: 56, 58
+  offset: 2, 4
+  index: -1
+jackpot/frame-1
+  rotate: false
+  xy: 333, 377
+  size: 266, 157
+  orig: 268, 159
+  offset: 1, 1
+  index: -1
+jackpot/frame-2
+  rotate: false
+  xy: 2, 5
+  size: 309, 196
+  orig: 319, 206
+  offset: 5, 5
+  index: -1
+jackpot/glow
+  rotate: false
+  xy: 2, 203
+  size: 329, 331
+  orig: 435, 433
+  offset: 53, 50
+  index: -1
+jackpot/jackpot
+  rotate: true
+  xy: 313, 37
+  size: 164, 63
+  orig: 164, 63
+  offset: 0, 0
+  index: -1
+jackpot/jackpot-glow
+  rotate: false
+  xy: 333, 246
+  size: 278, 129
+  orig: 346, 161
+  offset: 34, 16
+  index: -1
+jackpot/light1
+  rotate: false
+  xy: 378, 57
+  size: 47, 152
+  orig: 50, 157
+  offset: 1, 4
+  index: -1
+jackpot/light2
+  rotate: false
+  xy: 333, 211
+  size: 203, 33
+  orig: 208, 38
+  offset: 2, 3
+  index: -1
+jackpot/light3
+  rotate: false
+  xy: 333, 211
+  size: 203, 33
+  orig: 208, 38
+  offset: 2, 3
+  index: -1
+jackpot/light4
+  rotate: false
+  xy: 427, 57
+  size: 47, 152
+  orig: 50, 157
+  offset: 2, 3
+  index: -1
+jackpot/reel1
+  rotate: false
+  xy: 476, 87
+  size: 70, 122
+  orig: 72, 124
+  offset: 1, 1
+  index: -1
+jackpot/reel1-glow
+  rotate: false
+  xy: 548, 122
+  size: 69, 122
+  orig: 72, 124
+  offset: 1, 1
+  index: -1
